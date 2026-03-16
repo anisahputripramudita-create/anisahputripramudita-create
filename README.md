@@ -1,16 +1,20 @@
-## Hi there 👋
+# Halo, Saya Anisah! 🙌
 
-<!--
-**anisahputripramudita-create/anisahputripramudita-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Introduction
+Saya adalah seorang mahasiswa yang berfokus pada bussines managementdan sedang mempelajari skill baru dibidang web development.
 
-Here are some ideas to get you started:
+### 🛠 Skills & Tech Stack
+- **Design:** Figma.
+- **Web Dev:** HTML. 
+- **Analysis:** Investment Management.
+- **Tools:** Microsoft Office.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Stats GitHub Kamu] (https://github.com/anisahputripramudita-create/anisahputripramudita-create/edit/main/README.md)
+
+### 📫 Let's Connect
+- [LinkedIn](https://linkedin.com/in/anisahputripramudita)
+  
+
+### ⚡ Fun Fact
+"Sangat tertarik dengan analisis study case dibidang baru."
