@@ -1,7 +1,7 @@
 # Halo, Saya Anisah! 🙌
 
 ### 🚀 Introduction
-Saya adalah seorang mahasiswa yang berfokus pada bussines managementdan sedang mempelajari skill baru dibidang web development.
+Saya adalah seorang mahasiswa yang berfokus pada bussines management dan sedang mempelajari skill baru dibidang web development.
 
 ### 🛠 Skills & Tech Stack
 - **Design:** Figma.
